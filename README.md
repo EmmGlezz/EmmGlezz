@@ -7,7 +7,7 @@ Software Engineer Student
 As a future software engineer, I am currently pursuing a bachelor's degree in Systems Engineering, while also obtaining a Diploma in Web Development to enhance my skills and knowledge in the field.
 
 *   🌍  I'm based in Sydney
-*   🖥️  See my portfolio at [https://emilianogonzalez.com/](http://emilianogonzalez.com)
+*   🖥️  See my portfolio at [https://emilianogonzalez.dev/](http://emilianogonzalez.dev)
 *   ✉️  You can contact me at [contact@emilianogonzalez.com](mailto:contact@emilianogonzalez.com)
 *   🧠  I'm learning Typescript and Nextjs
 *   🤝  I'm open to collaborating on Any crazy ideas
