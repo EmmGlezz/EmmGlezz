@@ -8,8 +8,7 @@ As a future software engineer, I am currently pursuing a bachelor's degree in Sy
 
 *   🖥️  See my portfolio at [https://emilianogonzalez.dev/](http://emilianogonzalez.dev)
 *   ✉️  You can contact me at [contact@emilianogonzalez.com](mailto:contact@emilianogonzalez.com)
-*   🧠  I'm learning Typescript and Nextjs
-*   🤝  I'm open to collaborating on any "crazy" ideas
+*   🧠  Currently learning Cloud and Machine Learning
 
 ### Skills 
 <p align="left">
